@@ -25,7 +25,7 @@ Develop and compare five supervised classification algorithms on a common public
 
 **Required public repository:** [GITHUB_REPOSITORY_URL](https://github.com/aadichouksey/ml-assignment-classification)
 
-**Live interactive application:** [STREAMLIT_URL]VE(https://ml-assignment-classification.streamlit.app/)
+**Live interactive application:** [STREAMLIT_URL](https://ml-assignment-classification.streamlit.app/)
 
 Replace both placeholders with your own working, publicly accessible HTTPS URLs before submission. Upload all files shown in the repository layout below, including `model/`, `test_data.csv`, `README.md` and `requirements.txt`. Verify the links in an incognito browser session.
 
